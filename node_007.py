@@ -1,5 +1,5 @@
 """    THE FROG-LEAP ROUTING NETWORK (FRONET)
-#interconnected communication between different systems in a network within sub net   """
+#interconnected communication between different systems in a network within    """
 
 import socket
 import os
